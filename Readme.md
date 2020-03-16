@@ -1,5 +1,5 @@
 # Happiness Virus
-Besides of hard time, let's smile!
+Application making smile for the people who suffering from “Corona Blue”, depression caused by Coronavirus (COVID-19)
 
 ![Image text](https://raw.githubusercontent.com/andymogul/Happiness-Virus/master/images/happiness_virus.png)
 
