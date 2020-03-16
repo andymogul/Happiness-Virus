@@ -1,6 +1,8 @@
 # Happiness Virus
 Besides of hard time, let's smile!
 
+![Image text](https://raw.githubusercontent.com/andymogul/Happiness-Virus/master/images/happiness_virus.png)
+
 ## Dependencies
 - Pytorch >=0.2.0
 - PyQt5
